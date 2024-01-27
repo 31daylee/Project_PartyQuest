@@ -20,7 +20,40 @@
 **[팀원]31daylee**: 스터디 모임 생성/ 좋아요 기능/ 유효성 검증/ 이메일 인증/ CS(고객센터) 목록 출력 및 페이징 / 멤버 목록 출력 / 멤버 목록 서치 및 페이징, 스토리보드 제작, 개발 보고서 작성, 발표 PPT 제작<br>
 **[팀원]bllor** : 스터디 신청, 스터디 참여자 목록, 알림 기능, 승인제 스터디 대기명단 기능, 개발 보고서 작성<br>
 
+## 📚기술스택
+<div align=center> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/H2 database-ECD53F?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/gradle-221E1F?style=for-the-badge&logo=java&logoColor=white"> 
+  <br>
 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/jsp-00148C?style=for-the-badge&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/kakao open api-FFCD00?style=for-the-badge&logo=kakao&logoColor=white">
+  <img src="https://img.shields.io/badge/portOne api-6F02B5?style=for-the-badge&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+
+</div>
+
+<br>
 
 ## 🖥 프로젝트 페이지 소개<br>
 ![파티퀘스트 메인 화면](https://github.com/Phoenix-Argo/partyquest/assets/136154061/92938a4c-f031-4c6f-a77c-8f3ae325dca7)
